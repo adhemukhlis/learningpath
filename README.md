@@ -4,7 +4,9 @@
 > [!NOTE]
 > gaya belajar : **dasar belum tentu mudah, dimudahkan belum tentu kepake**
 
-1.
-    ```bash
-    npm install -g yarn
-    ```
+1. ```bash
+   npm install -g yarn
+   ```
+2. ```bash
+   npm install create-react-app -g
+   ```
