@@ -10,3 +10,8 @@
 2. ```bash
    npm install create-react-app -g
    ```
+
+3. buat project react
+   ```bash
+   npx create-react-app nama_project
+   ```
